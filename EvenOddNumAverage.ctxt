@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=even\ odd\ totalEven\ totalOdd
+comment0.target=void\ mAverageFunction(double,\ double,\ int,\ int)
+comment1.params=array
+comment1.target=void\ evenOddNumberFinder(double[])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ digitCounter(int)
+comment1.params=n\ m
+comment1.target=double\ cube(int,\ int)
+comment2.params=n
+comment2.target=boolean\ isArm(int)
+comment2.text=\ Below\ method\ used\ to\ pass\ counter\ of\ digit\ \r\n\ suming\ power\ of\ digit\ i.e\ n^m\ \r\n\ n\ \=\ given\ input\ \r\n\ m\ \=\ counter\ i.e\ no.\ 123\ has\ m\=3\ (1,2,3)\r\n\ \r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
